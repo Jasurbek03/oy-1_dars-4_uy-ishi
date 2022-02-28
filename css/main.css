@@ -1,0 +1,295 @@
+body {
+    text-align: center;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+ul {
+    color: #000000;
+    list-style-type: none;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 50px;
+}
+
+
+/* Header qismi */
+.header {
+    display: inline-block;
+    text-align: center;
+    width: 1140px;
+}
+
+.logotip {
+    width: 160px;
+    height: 41px;
+}
+
+.header-list {
+    color: #1F1534;
+    display: inline-block;
+    text-align: center;
+    font-size: 18px;
+    line-height: 23px;
+}
+
+.header-list-item-activ {
+    display: inline-block;
+}
+
+.header-list-item {
+    display: inline-block;
+    opacity: 0.5;
+}
+
+
+/* Hero-1. */
+
+.hero {
+    text-align: center;
+}
+.hero-box {
+    display: inline-block;
+    text-align: start;
+    width: 445px;
+}
+
+.hero-1-heading {
+    font-size: 48px;
+    line-height: 56px;
+}
+
+.hero-1-text {
+    color: #7D7987;
+    font-size: 21px;
+    line-height: 32px;
+}
+
+.hero-1-link {
+    background-color: #458FF6;
+    color: #ffffff;
+    display: inline-block;
+    width: 200px;
+    height: 56px;
+}
+
+.hero-1-img {
+    width: 693px;
+    height: 598px;
+}
+
+
+/* "Service" */
+.service {
+    text-align: center;
+}
+
+hr {
+    background: #000000;
+    width: 56px;
+    height: 2px;
+}
+
+.service-text {
+    display: inline-block;
+    /* text-align: center; */
+    width: 952px;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+}
+
+.service-list {
+    display: inline-block;
+    width: 1120px;
+}
+
+.service-list-item {
+    display: inline-block;
+    text-align: start;
+    width: 350px;
+    height: 354px;  
+}
+
+.service-img {
+    width: 90px;
+    height: 90px;
+}
+
+.service-heading {
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.service-list-text {
+    font-size: 16px;
+    line-height: 28px;
+    color: #7D7987;
+}
+
+
+.link-learn {
+    display: inline-block;
+    color: #458FF6;
+    font-size: 18px;
+    line-height: 60px;
+    width: 200px;
+    height: 56px;
+}
+
+
+/* Hero-2. */
+
+.hero-2-img {
+    width: 650px;
+    height: 477px;
+}
+
+.hero-text {
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+}
+
+.hero-3-link {
+    display: inline-block;
+    color: #458FF6;
+    font-size: 18px;
+    line-height: 60px;
+    width: 200px;
+    height: 56px;
+}
+
+.hero-3-img {
+    width: 665px;
+    height: 434px;
+}
+
+
+/* Iqtibos keltirilgan qism. */
+
+.quote {
+    background-color: #60ABF2;
+    color: #ffffff;
+    text-align: center;
+    display: inline-block;
+    width: 1120px;
+}
+
+.quote-hr {
+    background: #ffffff;
+}
+
+.quote-box {
+    display: inline-block;
+}
+
+.quote-left_side {
+    width: 350px;
+    display: inline-block;
+}
+
+.quote-img {
+    width: 141px;
+    height: 141px;
+}
+
+.quote-box-name {
+    display: inline-block;
+}
+
+.quote-text-1 {
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 48px;
+}
+
+.quote-text-2 {
+    font-size: 18px;
+    line-height: 48px;
+}
+
+blockquote {
+    display: inline-block;
+    width: 420px;
+    font-size: 19px;
+    line-height: 30px;
+}
+
+
+/* "Article"-Maqola qismni. */
+
+.article-list {
+    display: inline-block;
+    width: 1120px;
+}
+
+.article-list-item {
+    display: inline-block;
+    text-align: start;
+    width: 370px;
+}
+
+.article-img {
+    width: 350px;
+    height: 240px;
+}
+
+.article-heading {
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 32px;
+}
+
+.article-text {
+    font-size: 16px;
+    line-height: 28px;
+    color: #7D7987;
+}
+
+.article-link {
+    font-size: 17px;
+    line-height: 28px;
+    color: #4089ED;
+}
+
+
+
+/* "Footer"-ya'ni Eng pastki qism */
+
+.footer {
+    background-color: #60ABF2;
+    color: #ffffff;
+}
+
+.footer-side-info {
+    display: inline-block;
+    width: 380px;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.footer-box {
+    display: inline-block;
+    text-align: start;
+    width: 220px;
+}
+
+.footer-heading {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 60px;
+}
+
+.footer-link {
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 38px;
+}
